@@ -5,7 +5,7 @@ title: Introducing ConnectWise Knowledge Base
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-![BRB]({{site.assets}}}}brb.gif)
+![BRB]({{ site.assets }}brb.gif)
 
 ### Built on Poole
 
