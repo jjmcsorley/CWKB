@@ -9,16 +9,15 @@ title: Marketing Campaign Basics
 
 ![Navigation Marketing Campaign]({{ site.assets }}nav-marketing-campaign.gif)
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+Marketing Campaigns are the foundation of every opportunity, serving as a driving force behind effective growth.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+### Step Two: New Campaign
 
-### Lanyon features
+* Click the '+' button in the upper left corner.
+* Enter in appropriate data for the proper form feilds.
+* Click the 'Save' button
+
+### Step Three: Complete the Setup
 
 In addition to the features of Poole, Lanyon adds the following:
 
