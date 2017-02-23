@@ -3,7 +3,7 @@ layout: post
 title: Introducing ConnectWise Knowledge Base
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+[ConnectWise](http://connectwise.com) is more than just a ticketing system. At it's core, ConnectWise is an enterprise managed service provider software solution.
 
 ![BRB]({{ site.assets }}brb.gif)
 
