@@ -8,6 +8,7 @@ title:               ConnectWise
 tagline:             'Knowledge Base'
 description:         ''
 url:                 https://jjmcsorley.github.io/Public-KB/
+assets:              https://raw.githubusercontent.com/jjmcsorley/Public-KB/gh-pages/_assets/
 baseurl:             ''
 paginate:            5
 
