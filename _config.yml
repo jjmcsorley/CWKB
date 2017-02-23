@@ -7,7 +7,7 @@ permalink:           pretty
 title:               ConnectWise
 tagline:             'Knowledge Base'
 description:         ''
-url:                 https://jjmcsorley.github.io/cwkb/
+url:                 https://cwkb.reliam.com
 assets:              https://raw.githubusercontent.com/jjmcsorley/cwkb/gh-pages/_assets/
 baseurl:             '/cwkb'
 paginate:            5
