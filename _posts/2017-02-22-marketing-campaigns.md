@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Marketing Campaigns Basics
+title: Marketing Campaign Basics
 ---
 
 ![Money]({{ site.assets}}mark-and-john.gif)
 
 ### Step One: Navigation
 
-![Sidebar Marketing Campaign]({{ site.assets}}sidebar-marketing-campaign.png)
+<img style="float: left;" src="https://raw.githubusercontent.com/jjmcsorley/Public-KB/gh-pages/_assets/sidebar-marketing-campaign.png">
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
