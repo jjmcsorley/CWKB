@@ -4,9 +4,7 @@ title: Marketing
 ---
 
 <p class="message">
-  Hey there! This page list all post associated with Marketing.
+  This page list all post associated with Marketing.
 </p>
 
-## LIST:
-
-* [Basics]({{ site.baseurl }}/{{ post.url }})
+* [Marketing Campaign Basics](http://cwkb.reliam.com/2017/02/23/marketing-campaigns/)
