@@ -8,7 +8,7 @@ title:               ConnectWise
 tagline:             'Knowledge Base'
 description:         ''
 url:                 https://cwkb.reliam.com
-assets:              https://raw.githubusercontent.com/jjmcsorley/cwkb/gh-pages/_assets/
+assets:              /jjmcsorley/cwkb/gh-pages/_assets/
 baseurl:             ''
 paginate:            5
 
