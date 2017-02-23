@@ -12,6 +12,9 @@ assets:              https://raw.githubusercontent.com/jjmcsorley/cwkb/gh-pages/
 baseurl:             ''
 paginate:            5
 
+# Gems
+gems:               [jekyll-paginate]
+
 # About/contact
 author:
   name:              Reliam Inc
