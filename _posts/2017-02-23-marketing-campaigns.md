@@ -22,7 +22,7 @@ These step-by-step instructions go over how to set up a Marketing Campaign to tr
 * Enter in the appropriate data to proper form fields
 * Click the `Save` button
 
-### Step Three: The Setup Tab
+### Step Three: Setup
 
 ![Setup Marketing Campaign]({{ site.img }}setup-marketing-campaign.gif)
 
@@ -30,4 +30,5 @@ Once you have saved your new Marketing Campaign, a panel at the bottom of the sc
 
 * Enter the `Budget` cost
 * Enter the expected `Revenue`
+* **Optional** Select a customer `Track`
 * Click `Save`
