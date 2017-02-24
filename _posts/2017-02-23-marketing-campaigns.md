@@ -7,7 +7,7 @@ Marketing Campaigns are the foundation of every opportunity, serving as a drivin
 
 These step-by-step instructions go over how to set up a Marketing Campaign to track your ROI on particular marketing events such as the annual AWS re:Invent. More information on Marketing Campaigns, checkout [university.connectwise.com](https://university.connectwise.com/university/search/default.aspx?url=https%3A%2F%2Fsearch.connectwise.com%2Fsearch%3Fq%3Dmarketing%2520campaign%26site%3DUniversity%26btnG%3DSearch%26client%3Dcw_7-0-14_frontend%26output%3Dxml_no_dtd%26proxystylesheet%3Dcw_7-0-14_frontend%26filter%3D0#)
 
-### Step One: Navigation
+### Step One: Open Marketing Campaigns
 
 ![Navigation Marketing Campaign]({{ site.img }}nav-marketing-campaign.gif)
 
@@ -30,5 +30,10 @@ Once you have saved your new Marketing Campaign, a panel at the bottom of the sc
 
 * Enter the `Budget` cost
 * Enter the expected `Revenue`
-* **Optional** Select a customer `Track`
+* **Optional** Select a default `Track` from the drop down menu
+ > `Tracks` can be used to automate many things over a set duration of time. A good track to use in this case would be one that automatically creates `activities` for the `account manager` one week after sending out bulk emails.
 * Click `Save`
+
+### Step Four: Open Marketing Manager
+
+![New Marketing Manager]({{ site.img }}new-marketing-manager.gif)
