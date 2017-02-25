@@ -37,3 +37,5 @@ Once you have saved your new Marketing Campaign, a panel at the bottom of the sc
 ### Step Four: Open Marketing Manager
 
 ![New Marketing Manager]({{ site.img }}new-marketing-manager.gif)
+
+The 

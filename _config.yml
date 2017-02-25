@@ -1,16 +1,16 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:            pretty
 
 # Setup
-title:               ConnectWise
-tagline:             'Knowledge Base'
-description:         ''
-url:                 https://cwkb.reliam.com
-img:              https://raw.githubusercontent.com/jjmcsorley/cwkb/gh-pages/_assets/img/
-baseurl:             ''
-paginate:            5
+title:                ConnectWise
+tagline:              'Knowledge Base'
+description:          ''
+url:                  https://cwkb.reliam.com
+img:                  assets/img/
+baseurl:              ''
+paginate:             5
 
 # Gems
 gems:               [jekyll-paginate]
